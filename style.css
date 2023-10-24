@@ -1,0 +1,30 @@
+/* seletor global = seleciona TODOS os elementos da página ou de determinado lugar*/
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* seletor pela tag */
+p {
+    color: brown;
+}
+
+main{
+    margin-top:1rem ;
+}
+/* seletor pela classe */
+
+.p1 {
+    border: 1px solid cadetblue;
+    color: black;
+    margin-top: 1rem;
+}
+
+/* seletor pelo id  */
+#titulo {
+    color: blueviolet;
+    margin-bottom: 1rem;
+
+}
